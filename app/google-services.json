@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767181627529",
+    "project_id": "textextraction-5a788",
+    "storage_bucket": "textextraction-5a788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767181627529:android:17f6c4871aa2dc01fba658",
+        "android_client_info": {
+          "package_name": "com.example.textextraction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767181627529-dbbaarlo0b8g0vghb8vahlo7bg9pvcjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDhDImu9OGJtjc3NkvM8iwxubYwaF-EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767181627529-dbbaarlo0b8g0vghb8vahlo7bg9pvcjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
